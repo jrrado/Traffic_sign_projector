@@ -108,8 +108,9 @@ Make sure the best_model.h5 file is in the correct directory and matches the mod
 
 PROBLEMS ENCOUNTERED:
 "I ENCOUNTERED A LONG LIST OF PROBLEMS WHICH MADE ME WASTE A LOT OF TIME FINISHING UP THE PROJECT ON TIME AND I REALLY HOPE MY COURSE INSRUCTOR MR. NGUH PRINCE UNDERSTANDS."
+-
 
 CONCLUSION
 This project demonstrates the use of deep learning (CNNs) for traffic sign classification. The system is built using TensorFlow and Keras for model training and Tkinter for the GUI. By following the steps in this README, you can train your own model, make predictions, and even experiment with new datasets to improve the model's performance.
 
-
+I NEVER HAD TIME TO DOWNLOAD ALL THE DIFFERENT IMAGE CATEGORIES SO I HAVE LES THAN TEN IMAGE CATEGORIES 
